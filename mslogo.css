@@ -1,0 +1,39 @@
+.microsoft
+{
+    width: 350px;
+    margin: 205px auto;
+
+
+}
+
+.square.red
+{
+    background-color:#F35220;
+
+}
+.square.green
+{
+    background-color:rgb(129, 188, 6);;
+
+}
+.square.blue
+{
+    background-color: rgb(5, 166, 240);;
+
+}
+.square.yellow
+{
+    background-color:rgb(255, 186, 8);;
+
+}
+
+.square
+{
+    width: 150px;
+    height: 150px;
+    margin: 0 10px 10px 0;
+    float:left;
+
+
+}
+
